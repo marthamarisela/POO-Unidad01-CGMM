@@ -14,10 +14,7 @@ import ups.edu.ec.poo.unidad01.semana1.Persona;
  */
 public class Poo {
 
-    public static void main(String[] args) {
-        
-        
-        
+    public static void main(String[] args) {  
         
         System.out.println("Hola Mundo");
         int a=50;
